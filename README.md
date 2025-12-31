@@ -4,6 +4,20 @@ This document records notable changes across Esilium.
 
 ---
 
+## [1.0.3] — 2025-12-31
+
+### 🔨 Bug Fixes
+- **`CHEAT`** Fully fixed Trigger Bot issues  
+- **`DASHBOARD`** Fixed public config publishing issues  
+
+### 🧩 Features
+- **`CLIENT`** Updated branding with the new logo across all components  
+
+### 🧱 Build System
+- **`CLIENT`** Updated to stable version **v1.0.3**
+
+---
+
 ## [1.0.2] — 2025-12-25
 
 ### 🔨 Bug Fixes
